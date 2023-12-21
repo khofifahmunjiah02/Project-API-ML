@@ -1,0 +1,7 @@
+0 Bus
+1 Hatchback
+2 MVP-SUV
+3 Motorcycle
+4 Pickup
+5 Sedan
+6 Truck
